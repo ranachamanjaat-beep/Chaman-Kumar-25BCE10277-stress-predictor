@@ -1,4 +1,3 @@
-# Chaman-Kumar-25BCE10277-stress-predictor
 # 🧠 Personal AI Stress & Productivity Predictor
 
 A Streamlit web application that uses **Linear Regression** (Scikit-Learn) to predict your daily stress score based on four lifestyle habits — sleep, caffeine, work hours, and physical activity. Designed around AI course concepts **CO3** (Normal Distribution) and **CO4** (Supervised Learning, MSE, R²).
@@ -34,7 +33,8 @@ A Streamlit web application that uses **Linear Regression** (Scikit-Learn) to pr
 ### 1. Clone or download the project
 
 ```bash
-git clone https://github.com/your-username/stress-predictor.git
+git clone git@github.com:ranachamanjaat-beep/Chaman-Kumar-25BCE10277-stress-predictor.git
+
 cd stress-predictor
 ```
 
