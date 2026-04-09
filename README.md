@@ -199,5 +199,5 @@ A **Feature Importance bar chart** (horizontal) displays the standardised Linear
 
 ---
 
-*Built with Streamlit · Scikit-Learn · Matplotlib · NumPy · Pandas*# sparsh-jain-25BCE10222-stress-predictor
+*Built with Streamlit · Scikit-Learn · Matplotlib · NumPy · Pandas*# chaman-kumar-25BCE10277-stress-predictor
 This project is a Streamlit-based AI tool that predicts daily stress levels using inputs like sleep, caffeine intake, work hours, and physical activity. It uses a Linear Regression model trained on synthetic data, providing real-time predictions, performance metrics, and visual insights to help users track and manage stress.
